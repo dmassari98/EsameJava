@@ -1,0 +1,4 @@
+mittente5 destinatario5 16 Francia
+mittente6 destinatario6 23 Polonia 4
+mittente7 destinatario7 88 Russia 17
+mittente8 destinatario8 56 Danimarca 13

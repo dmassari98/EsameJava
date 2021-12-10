@@ -1,0 +1,3 @@
+mittente6 destinatario6 23.0 Polonia 4.0
+mittente7 destinatario7 88.0 Russia 17.0
+mittente8 destinatario8 56.0 Danimarca 13.0

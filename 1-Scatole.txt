@@ -1,0 +1,2 @@
+mittente2 destinatario2 23.0 Germania 10.0
+mittente4 destinatario4 120.0 USA 13.0
